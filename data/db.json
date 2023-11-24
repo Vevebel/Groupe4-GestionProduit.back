@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "User": 2,
+    "Produit": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"nom\":\"Bah\",\"prenom\":\"mouha\",\"email\":\"mouha@gmail.com\",\"motDePasse\":\"passer\",\"userId\":1}"
+    },
+    "Produit": {
+      "1": "{\"nom\":\"test\",\"description\":\"test\",\"prix\":1000,\"image\":\"tzhd\",\"userId\":1,\"id\":1}"
+    }
+  }
+}
